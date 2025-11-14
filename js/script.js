@@ -1,9 +1,9 @@
 // Minimal site script: replace these sample values with your real data
 const data = {
-  name: 'Darshan Chopda',
+  name: 'Darshan',
   title: 'B.Tech (IT) — 3rd year, 5th semester',
   location: 'Baroda, Gujarat',
-  email: 'chopdadarshan133@gnail.com',
+  email: 'chopdadarshan133@gmail.com',
   phone: '',
   about: 'I am a 3rd-year B.Tech (IT) student at Parul University. I enjoy building web applications with a focus on frontend development and modern JavaScript frameworks. I also know C++ and Java and practice Data Structures & Algorithms (DSA).',
   skills: [
@@ -135,7 +135,7 @@ function populateContent() {
   // Contact Button Functionality
   const btn = document.getElementById('contactBtn')
   btn.addEventListener('click', function() {
-    const mailtoLink = 'mailto:shubhboda@gmail.com?subject=Hello%20from%20your%20site&body=Hi%20Shubh%2C%0D%0A%0D%0AI%20saw%20your%20CV%20and%20would%20like%20to%20connect.'
+    const mailtoLink = 'mailto:chopdadarshan133@gmail.com?subject=Hello%20from%20your%20site&body=Hi%20Darshan%2C%0D%0A%0D%0AI%20saw%20your%20CV%20and%20would%20like%20to%20connect.'
     window.location.href = mailtoLink
   })
 

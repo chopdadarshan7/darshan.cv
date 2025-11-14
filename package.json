@@ -1,5 +1,5 @@
 {
-  "name": "shubh.cv",
+  "name": "darshan.cv",
   "version": "1.0.0",
   "description": "This is a minimal, responsive static personal website scaffold. Use it to show your name, photo, skills, projects and a download link for your resume.",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shubhboda/shubh.cv.git"
+    "url": "git+https://github.com/chopdadarshan7/darshan.cv.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shubhboda/shubh.cv/issues"
+    "url": "https://github.com/chopdadarshan7/darshan.cv/issues"
   },
-  "homepage": "https://github.com/shubhboda/shubh.cv#readme",
+  "homepage": "https://github.com/chopdadarshan7/darshan.cv#readme",
   "devDependencies": {
     "http-server": "^14.1.1"
   }
