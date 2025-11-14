@@ -1,6 +1,6 @@
 // Minimal site script: replace these sample values with your real data
 const data = {
-  name: 'Chopda Darshan',
+  name: 'Darshan Chopda',
   title: 'B.Tech (IT) — 3rd year, 5th semester',
   location: 'Baroda, Gujarat',
   email: 'chopdadarshan133@gnail.com',
