@@ -1,0 +1,1 @@
+# Darshan CV Update Plan Steps\n\n1. [x] Update README.md with Darshan content\n2. [x] Polish index.html static content\n3. [x] Update package.json repo info\n4. [x] Commit updates\n5. [x] Test site\n6. [ ] Push to GitHub (after repo creation at https://github.com/chopdadarshan7/darshan.cv)\n\nApproved plan complete! Create repo and `git push -u origin main`.
