@@ -27,12 +27,7 @@ const data = {
     other: ['Video Editing', 'Photo Editing', 'Photography', 'Digital Marketing']
   },
   experiences: [
-    {
-      title: 'Full Stack AI Developer at Akagai',
-      period: '01 March 2026 - 01 July 2026 | Part-time, Remote | Stipend: INR 25,000/month',
-      desc:
-        'Developed an AI-powered voice-based meal tracking system from scratch. Enabled real-time speech recognition to identify food items accurately. Engineered a calorie estimation engine for automated nutritional tracking. Built a scalable admin dashboard for managing users, payments, and AI usage. Designed and optimized database architecture for high-performance data handling.'
-    },
+
     {
       title: 'Intern at Gharkiyade Startup',
       period: 'June 2023 - August 2023',

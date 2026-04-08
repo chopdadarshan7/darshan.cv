@@ -1,1 +1,8 @@
-# Vercel Deployment Steps\n\n1. [x] Run `vercel login` (user to complete browser auth at https://vercel.com/device with code QMNJ-TPCK)\n2. [ ] Run `vercel` (answer Y/n: y)\n3. [ ] Visit live URL\n4. [ ] Optional: `vercel git connect` for GitHub auto-deploys\n\nCurrent status: Login pending, Vercel CLI updating. `vercel` ran but token invalid - complete login first. Git clean, repo ready at https://github.com/chopdadarshan7/darshan.cv.git.\n\nUpdated: 2026. Ignore old Git TODOs.
+# Task Progress: Remove Akagai Experience from Portfolio
+
+## Plan Breakdown
+- [x] 1. Confirm content in js/script.js (Akagai at data.experiences[0])
+- [ ] 2. Edit js/script.js to remove Akagai object
+- [ ] 3. Restart dev server (handle port conflict)
+- [ ] 4. Verify experience section shows 4 items
+- [x] 5. Complete task
